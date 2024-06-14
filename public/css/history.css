@@ -1,0 +1,17 @@
+
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.cell-1 {
+  border-collapse: separate;
+  border-spacing: 0 4em;
+  background: #fff;
+  border-bottom: 5px solid transparent;
+  background-clip: padding-box;
+}
+
+thead {
+  background: #dddcdc;
+}

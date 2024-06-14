@@ -1,0 +1,34 @@
+body
+{
+    font-family: sans-serif;
+    background-color: #FFFFFF;
+}
+
+main
+{
+    min-height: calc(100vh - 56px - 56px);
+}
+footer{
+	font-family: Quicksand, Verdana , Geneva , sans-serif;
+}
+
+#footerlogo{
+	transition: all 0.5s;
+}
+#footerlogo:hover{
+	transform: scale(1.5);
+}
+
+.square {
+    width: 100%;
+    padding-bottom: 100%;
+    cursor: pointer;
+}
+
+.square-lit {
+    background-color: lightblue;
+}
+
+#memoryGameArea {
+    width: 20rem;
+}

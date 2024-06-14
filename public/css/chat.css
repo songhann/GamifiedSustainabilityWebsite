@@ -1,0 +1,7 @@
+.message-button {
+    display: none;
+}
+
+.message-box:hover .message-button {
+    display: inline-block;
+}
